@@ -2,7 +2,7 @@
 	"name": "calmshade",
 	"displayName": "Calmshade",
 	"description": "Calmshade Color Theme",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"engines": {
 		"vscode": "^1.78.0"
 	},
