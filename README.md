@@ -1,5 +1,5 @@
 <div align='center'>
- <h1 style='color: #7989ed;' > Stypt </h3>
+ <h1 style='color: #7989ed;' > Calmshade </h3>
  </div>
 
 <br/>
@@ -9,5 +9,5 @@ A serene dark theme designed to enhance focus and promote a comfortable, distrac
 
 <br/>
 
-![Demo Image (TS)](https://raw.githubusercontent.com/Michael-Vol/Stypt-Theme/refs/heads/main/resources/v2/demo_ts.png)
+![Demo Image (TS)](https://raw.githubusercontent.com/mihavo/Calmshade/refs/heads/main/resources/v1/demo_ts.png)
 # calmshade

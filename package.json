@@ -1,0 +1,27 @@
+{
+	"name": "calmshade",
+	"displayName": "Calmshade",
+	"description": "Calmshade Color Theme",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Michael-Vol/Calmshade.git"
+	},
+	"publisher": "michaelvolakis",
+	"icon": "resources/icon/calmshade.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Calmshade",
+				"uiTheme": "vs-dark",
+				"path": "./themes/calmshade-color-theme.json"
+			}
+		]
+	}
+}
