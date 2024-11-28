@@ -9,5 +9,5 @@ A serene dark theme designed to enhance focus and promote a comfortable, distrac
 
 <br/>
 
-![Demo Image (TS)](https://raw.githubusercontent.com/mihavo/Calmshade/refs/heads/main/resources/v1/demo_ts.png)
+![Demo Image (TS)](https://github.com/mihavo/calmshade/blob/ee9009563a6be309d201ca737a902b73f1ea4bbd/resources/v1/demo_ts.png)
 # calmshade
