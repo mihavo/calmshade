@@ -1,5 +1,5 @@
 <div align='center'>
- <h1 style='color: #7989ed;' > Calmshade </h3>
+ <h1 style='color: #665757;' > Calmshade </h3>
  </div>
 
 <br/>
