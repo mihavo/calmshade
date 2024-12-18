@@ -9,4 +9,4 @@ A serene dark theme designed to enhance focus and promote a comfortable, distrac
 
 <br/>
 
-![Demo Image (TS)](./resources/v1/demo_ts.png)
+![Demo Image (TS)](./resources/v2/intro.png)
